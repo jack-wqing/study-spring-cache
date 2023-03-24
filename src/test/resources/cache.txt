@@ -1,0 +1,12 @@
+Cache
+CacheManager
+
+BaseOperation -> CacheOperation
+CacheResolver
+
+CacheOperationSource
+
+CacheAnnotationParser
+
+AbstractCacheInvoker
+
